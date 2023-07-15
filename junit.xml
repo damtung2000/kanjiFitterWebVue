@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="1" failures="1" errors="0" time="1.133">
+  <testsuite name="undefined" errors="0" failures="1" skipped="0" timestamp="2023-07-08T23:31:26" time="1.059" tests="1">
+    <testcase classname=" Split and format essay" name=" Split and format essay" time="0.029">
+      <failure>Error: expect(received).toEqual(expected) // deep equality
+
+- Expected  - 23
++ Received  +  0
+
+@@ -17,29 +17,6 @@
+    &quot;と&quot;,
+    &quot;し&quot;,
+    &quot;て&quot;,
+    &quot;、&quot;,
+    &quot;私&quot;,
+-   &quot;は&quot;,
+-   &quot;別&quot;,
+-   &quot;府&quot;,
+-   &quot;と&quot;,
+-   &quot;そ&quot;,
+-   &quot;の&quot;,
+-   &quot;地&quot;,
+-   &quot;域&quot;,
+-   &quot;社&quot;,
+-   &quot;会&quot;,
+-   &quot;の&quot;,
+-   &quot;展&quot;,
+-   &quot;開&quot;,
+-   &quot;に&quot;,
+-   &quot;貢&quot;,
+-   &quot;献&quot;,
+-   &quot;す&quot;,
+-   &quot;る&quot;,
+-   &quot;つ&quot;,
+-   &quot;も&quot;,
+-   &quot;り&quot;,
+-   &quot;だ&quot;,
+-   &quot;。&quot;,
+  ]
+    at /home/damtung2000/kanjiFitterWeb/test/essay.test.ts:52:23
+    at Array.forEach (&lt;anonymous&gt;)
+    at Object.&lt;anonymous&gt; (/home/damtung2000/kanjiFitterWeb/test/essay.test.ts:51:34)
+    at Promise.then.completed (/home/damtung2000/kanjiFitterWeb/node_modules/jest-circus/build/utils.js:300:28)
+    at new Promise (&lt;anonymous&gt;)
+    at callAsyncCircusFn (/home/damtung2000/kanjiFitterWeb/node_modules/jest-circus/build/utils.js:233:10)
+    at _callCircusTest (/home/damtung2000/kanjiFitterWeb/node_modules/jest-circus/build/run.js:314:40)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async _runTest (/home/damtung2000/kanjiFitterWeb/node_modules/jest-circus/build/run.js:250:3)
+    at async _runTestsForDescribeBlock (/home/damtung2000/kanjiFitterWeb/node_modules/jest-circus/build/run.js:125:9)
+    at async run (/home/damtung2000/kanjiFitterWeb/node_modules/jest-circus/build/run.js:70:3)
+    at async runAndTransformResultsToJestFormat (/home/damtung2000/kanjiFitterWeb/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapterInit.js:122:21)
+    at async jestAdapter (/home/damtung2000/kanjiFitterWeb/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapter.js:79:19)
+    at async runTestInternal (/home/damtung2000/kanjiFitterWeb/node_modules/jest-runner/build/runTest.js:367:16)
+    at async runTest (/home/damtung2000/kanjiFitterWeb/node_modules/jest-runner/build/runTest.js:444:34)</failure>
+    </testcase>
+  </testsuite>
+</testsuites>

@@ -1,0 +1,20 @@
+{
+  "files": [],
+  "references": [
+    {
+      "path": "./tsconfig.config.json"
+    },
+    {
+      "path": "./tsconfig.app.json"
+    }
+  ],
+  "compilerOptions": {
+    "target": "ES6",
+    "baseUrl": "./src",
+    "esModuleInterop": true,
+    "allowJs": false,
+    "paths": {
+      "@/*": ["/src/*"]
+    }
+  }
+}

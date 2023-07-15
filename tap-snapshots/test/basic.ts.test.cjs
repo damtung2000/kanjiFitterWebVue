@@ -1,0 +1,77 @@
+/* IMPORTANT
+ * This snapshot file is auto-generated, but designed for humans.
+ * It should be checked into source control and tracked carefully.
+ * Re-generate by setting TAP_SNAPSHOT=1 and running tests.
+ * Make sure to inspect the output below.  Do not ignore changes!
+ */
+'use strict'
+exports[`test/basic.ts TAP splitAndFormatEssay works as expected > splitAndFormatEssay(%p) should output %p 1`] = `
+Array [
+  Array [
+    " ",
+    "大",
+    "分",
+    "県",
+    "奨",
+    "学",
+    "金",
+    "の",
+    "名",
+    "誉",
+    "あ",
+    "る",
+    "受",
+    "給",
+    "者",
+    "と",
+    "し",
+    "て",
+    "。",
+    "　",
+  ],
+  Array [
+    " ",
+    "私",
+    "は",
+    "別",
+    "府",
+    "と",
+    "そ",
+    "の",
+    "地",
+    "域",
+    "社",
+    "会",
+    "の",
+    "展",
+    "開",
+    "に",
+    "貢",
+    "献",
+    "す",
+    "る",
+  ],
+  Array [
+    "つ",
+    "も",
+    "り",
+    "だ",
+    "。",
+    "　",
+    "　",
+    "　",
+    "　",
+    "　",
+    "　",
+    "　",
+    "　",
+    "　",
+    "　",
+    "　",
+    "　",
+    "　",
+    "　",
+    "　",
+  ],
+]
+`
