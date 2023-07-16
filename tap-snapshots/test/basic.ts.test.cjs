@@ -5,7 +5,7 @@
  * Make sure to inspect the output below.  Do not ignore changes!
  */
 'use strict'
-exports[`test/basic.ts TAP splitAndFormatEssay works as expected > splitAndFormatEssay(%p) should output %p 1`] = `
+exports[`test/basic.ts TAP splitAndFormatEssay works as expected > must match snapshot 1`] = `
 Array [
   Array [
     " ",
